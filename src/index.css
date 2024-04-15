@@ -1,0 +1,22 @@
+html {
+  font-family: Verdana, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-weight: 400;
+  letter-spacing: 2px;
+  background-image: url('./some/1.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.my-div-with-picture {
+  background-image: url('./some/1.png');
+  height: 200px;
+  background-size: contain;
+}
